@@ -61,7 +61,7 @@ believe-in-yourself/
 To run this project on your machine:
 
 ```bash
-git clone https://github.com/your-username/believe-in-yourself.git
+git clone https://github.com/devo-ab/believe-in-yourself.git
 cd believe-in-yourself
  ```
 
